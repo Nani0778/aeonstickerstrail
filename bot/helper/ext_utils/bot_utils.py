@@ -197,7 +197,7 @@ def source(self):
 
 
 def get_readable_message():
-    msg = '<b><a href="https://t.me/jetmirror">ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴇᴛ-ᴍɪʀʀᴏʀ ❤️🚀</a></b>\n\n'
+    msg = '<b><a href="https://t.me/movieplaza77">ᴘᴏᴡᴇʀᴇᴅ ʙʏ NANI ❤️🚀</a></b>\n\n'
     button = None
     tasks = len(download_dict)
     #msg_link = download.message.link
